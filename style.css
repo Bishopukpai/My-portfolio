@@ -176,6 +176,7 @@ section {
     border-radius: 50%;
     height: 99%;
     width: 100vw;
+    object-fit: cover
 }
 
 .section__text{
